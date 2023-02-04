@@ -46,4 +46,14 @@ A view was created from which we can see the sender name, receiver name, message
 
 
 
+## Software Development Summary
+* **Technology**: SQL
+* **Tool**: SSMS (SQL Server Management Studio)
+
+
+
+**NOTE**: This repo is subject to future modifications.
+
+
+
 
