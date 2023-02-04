@@ -1,6 +1,7 @@
 # Whatsapp_Database_Query
 
-##Description
+## Description
+
 This repo consist of a simple Whatsapp Database SQL scripts that runs in SSMS. 
 
 The database name is WhatsappDB. It consists of three tables: Users, Chats, and Messages. 
